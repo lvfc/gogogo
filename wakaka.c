@@ -7,6 +7,6 @@
 int main(int argc, char *argv[])
 {
     printf("wakaka\n");
-
+    system("pause");
 	return 0;
 }
